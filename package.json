@@ -1,0 +1,37 @@
+{
+  "name": "healf-search",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@shopify/flash-list": "^1.8.3",
+    "currency-symbol-map": "^5.1.0",
+    "expo": "~53.0.13",
+    "expo-asset": "~11.1.5",
+    "expo-file-system": "~18.1.10",
+    "expo-status-bar": "~2.2.3",
+    "lodash.debounce": "^4.0.8",
+    "papaparse": "^5.5.3",
+    "react": "19.0.0",
+    "react-native": "0.79.4",
+    "react-native-gesture-handler": "~2.24.0",
+    "react-native-paper": "^5.14.5",
+    "react-native-safe-area-context": "5.4.0",
+    "react-native-vector-icons": "^10.2.0",
+    "zustand": "^5.0.6"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.25.2",
+    "@react-native-community/cli": "latest",
+    "@types/lodash.debounce": "^4.0.9",
+    "@types/papaparse": "^5.3.16",
+    "@types/react": "~19.0.10",
+    "typescript": "~5.8.3"
+  },
+  "private": true
+}
