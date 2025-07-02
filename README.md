@@ -19,8 +19,8 @@ To get this application up and running on your local machine and test it on a de
 First, get a copy of the project files by cloning the repository to your local machine:
 
 ```bash
-git clone <repository-url>
-cd <repository-directory>
+git clone https://github.com/abdallahmohd/healf-search-app.git
+cd healf-search-app
 ```
 
 ### Install dependencies
