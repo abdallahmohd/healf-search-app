@@ -28,6 +28,20 @@
     "plugins": [
       "expo-asset"
     ],
-    "assetBundlePatterns": ["**/*", "assets/*"]
+    "assetBundlePatterns": [
+      "**/*",
+      "assets/*"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "e9d2fe4d-98c0-40d8-8173-f0bb0d65ef8f"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/e9d2fe4d-98c0-40d8-8173-f0bb0d65ef8f"
+    }
   }
 }

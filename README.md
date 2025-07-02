@@ -2,6 +2,22 @@
 
 A React Native (Expo + TypeScript) implementation for a performant, scalable, and user-focused product search experience, designed to handle a dataset of 6,000 products. The goal was to demonstrate practical architectural decisions, snappy UX, and code that’s ready for further feature expansion.
 
+## 🚀 Live Demo (Expo Go)
+
+You can preview the latest version of this app instantly in Expo Go:
+
+- **Scan the QR code or open on your device:**  
+  [Expo Preview QR Page](https://expo.dev/preview/update?message=update%20readme&updateRuntimeVersion=1.0.0&createdAt=2025-07-02T20%3A42%3A04.775Z&slug=exp&projectId=e9d2fe4d-98c0-40d8-8173-f0bb0d65ef8f&group=2e6b8be1-ed06-4eaa-9e78-a4a540bad241)  
+  Open this link on your mobile device, or scan the QR code displayed on the page using [Expo Go](https://expo.dev/client).
+
+- **Direct mobile deep link:**  
+  [Open directly in Expo Go](exp+://expo-development-client/?url=https://u.expo.dev/e9d2fe4d-98c0-40d8-8173-f0bb0d65ef8f/group/2e6b8be1-ed06-4eaa-9e78-a4a540bad241)  
+  _(Tap this if you’re on your device and have Expo Go installed.)_
+
+> **Note:**  
+> When previewing the app in Expo Go, the standard Expo icon will display instead of the custom app icon. The custom icon appears only in standalone or development builds.
+
+
 ## Tech Stack
 
 - React Native + Expo
