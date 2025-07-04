@@ -26,7 +26,6 @@ export const SearchBar = () => {
         returnKeyType="search"
         onClearIconPress={onClear}
         style={styles.searchbar}
-        clearButtonMode="always"
       />
       {showSuggestions && suggestions.length > 0 && (
         <FlatList
