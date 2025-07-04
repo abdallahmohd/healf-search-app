@@ -26,7 +26,7 @@ export const styles = StyleSheet.create({
   content: {
     flex: 1,
     minHeight: 200,
-    paddingTop: 8,
+    paddingVertical: 12,
     paddingHorizontal: 8,
     backgroundColor: "#fff",
     justifyContent: "space-between",
